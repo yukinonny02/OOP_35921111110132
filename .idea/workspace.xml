@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d8c888d-d71a-4fa0-a02a-63da07ae1dce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab7/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab7/StudentApp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_35921111110132/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_35921111110132/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="4d8c888d-d71a-4fa0-a02a-63da07ae1dce" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../OOP_35921111110132/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,39 +12,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StudentApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab7/StudentApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="23" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab7/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="20" />
-              <folding>
-                <element signature="e#987#988#0" expanded="true" />
-                <element signature="e#1012#1013#0" expanded="true" />
-                <element signature="e#1048#1049#0" expanded="true" />
-                <element signature="e#1076#1077#0" expanded="true" />
-                <element signature="e#1107#1108#0" expanded="true" />
-                <element signature="e#1134#1135#0" expanded="true" />
-                <element signature="e#1174#1175#0" expanded="true" />
-                <element signature="e#1206#1207#0" expanded="true" />
-                <element signature="e#1236#1237#0" expanded="true" />
-                <element signature="e#1262#1263#0" expanded="true" />
-                <element signature="e#1300#1301#0" expanded="true" />
-                <element signature="e#1330#1331#0" expanded="true" />
-                <element signature="e#1364#1365#0" expanded="true" />
-                <element signature="e#1394#1395#0" expanded="true" />
-                <element signature="e#1440#1441#0" expanded="true" />
-                <element signature="e#1478#1479#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -553,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517154554274</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Student">
+      <created>1517154733662</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1517154733662</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -592,7 +568,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TestVariable" />
     <MESSAGE value="Testinput" />
     <MESSAGE value=" TestWhileLoop" />
     <MESSAGE value=" TestSwitchCase" />
@@ -617,7 +592,8 @@
     <MESSAGE value="Part3_1" />
     <MESSAGE value="SuperCar" />
     <MESSAGE value="mySuperCar" />
-    <option name="LAST_COMMIT_MESSAGE" value="mySuperCar" />
+    <MESSAGE value="Student" />
+    <option name="LAST_COMMIT_MESSAGE" value="Student" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -848,7 +824,7 @@
         <state relative-caret-position="102">
           <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -903,18 +879,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab7/StudentApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab7/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding>
             <element signature="e#987#988#0" expanded="true" />
             <element signature="e#1012#1013#0" expanded="true" />
@@ -933,6 +901,14 @@
             <element signature="e#1440#1441#0" expanded="true" />
             <element signature="e#1478#1479#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab7/StudentApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
