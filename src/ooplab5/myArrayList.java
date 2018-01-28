@@ -6,7 +6,7 @@ public class myArrayList {
     public static void main(String[] args) {
 //        ArrayList
         ArrayList list = new ArrayList();
-        String name = "Tik";
+        String name = "yu";
         list.add(name);
         System.out.println(list);
         list.add("Bew");
