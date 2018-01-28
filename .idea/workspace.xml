@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d8c888d-d71a-4fa0-a02a-63da07ae1dce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab3/TestNestedLoop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab3/TestForLoop.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_35921111110132/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_35921111110132/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../OOP_35921111110132/out/" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestNestedLoop.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab3/TestNestedLoop.java">
+      <file leaf-file-name="TestForLoop.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab3/TestForLoop.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -52,6 +52,7 @@
         <option value="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab3/TestSwitchCase.java" />
         <option value="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab3/TestPIN.java" />
         <option value="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab3/TestNestedLoop.java" />
+        <option value="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab3/TestForLoop.java" />
       </list>
     </option>
   </component>
@@ -123,7 +124,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestNestedLoop">
+  <component name="RunManager" selected="Application.TestForLoop">
+    <configuration name="TestForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ooplab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ooplab3.TestForLoop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../OOP_35921111110132" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="OOP_35921111110132" />
+      <envs />
+    </configuration>
     <configuration name="TestInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -189,25 +209,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ooplab3.TestSwitchCase" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../OOP_35921111110132" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="OOP_35921111110132" />
-      <envs />
-    </configuration>
-    <configuration name="TestVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ooplab2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab2.TestVariable" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../OOP_35921111110132" />
@@ -301,19 +302,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestVariable" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestInput" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestSwitchCase" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestPIN" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestInput" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestSwitchCase" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestPIN" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestForLoop" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestPIN" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestSwitchCase" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestInput" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestVariable" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestForLoop" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestNestedLoop" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestPIN" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestSwitchCase" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestInput" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517150379007</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="TestNestedLoop">
+      <created>1517150446226</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1517150446226</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -388,7 +396,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39910978" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -407,7 +415,8 @@
     <MESSAGE value=" TestWhileLoop" />
     <MESSAGE value=" TestSwitchCase" />
     <MESSAGE value="TestPIN" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestPIN" />
+    <MESSAGE value="TestNestedLoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestNestedLoop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -478,6 +487,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab3/TestForLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
