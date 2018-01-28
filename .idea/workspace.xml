@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d8c888d-d71a-4fa0-a02a-63da07ae1dce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab6/myString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab6/myStrToken.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OOP_35921111110132/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../OOP_35921111110132/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../OOP_35921111110132/out/" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="myString.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab6/myString.java">
+      <file leaf-file-name="myStrToken.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab6/myStrToken.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="68">
+              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -65,6 +65,7 @@
         <option value="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab5/InputDataArray.java" />
         <option value="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab5/Exercise.java" />
         <option value="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab6/myString.java" />
+        <option value="$PROJECT_DIR$/../OOP_35921111110132/src/ooplab6/myStrToken.java" />
       </list>
     </option>
   </component>
@@ -136,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.myString">
+  <component name="RunManager" selected="Application.myStrToken">
     <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -275,14 +276,14 @@
       <module name="OOP_35921111110132" />
       <envs />
     </configuration>
-    <configuration name="myArray2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="myStrToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ooplab5.*" />
+          <option name="PATTERN" value="ooplab6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ooplab5.myArray2D" />
+      <option name="MAIN_CLASS_NAME" value="ooplab6.myStrToken" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../OOP_35921111110132" />
@@ -314,19 +315,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.myArray2D" />
-      <item index="1" class="java.lang.String" itemvalue="Application.myArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.InputDataArray" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Exercise" />
-      <item index="4" class="java.lang.String" itemvalue="Application.myString" />
+      <item index="0" class="java.lang.String" itemvalue="Application.myArray" />
+      <item index="1" class="java.lang.String" itemvalue="Application.InputDataArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Exercise" />
+      <item index="3" class="java.lang.String" itemvalue="Application.myString" />
+      <item index="4" class="java.lang.String" itemvalue="Application.myStrToken" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.myString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Exercise" />
-        <item index="2" class="java.lang.String" itemvalue="Application.InputDataArray" />
-        <item index="3" class="java.lang.String" itemvalue="Application.myArray" />
-        <item index="4" class="java.lang.String" itemvalue="Application.myArray2D" />
+        <item index="0" class="java.lang.String" itemvalue="Application.myStrToken" />
+        <item index="1" class="java.lang.String" itemvalue="Application.myString" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Exercise" />
+        <item index="3" class="java.lang.String" itemvalue="Application.InputDataArray" />
+        <item index="4" class="java.lang.String" itemvalue="Application.myArray" />
       </list>
     </recent_temporary>
   </component>
@@ -460,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517152068082</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="myString">
+      <created>1517152350210</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1517152350210</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -516,7 +524,8 @@
     <MESSAGE value="myArray" />
     <MESSAGE value="InputDataArray" />
     <MESSAGE value="Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise" />
+    <MESSAGE value="myString" />
+    <option name="LAST_COMMIT_MESSAGE" value="myString" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -713,6 +722,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../OOP_35921111110132/src/ooplab6/myStrToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>
