@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d8c888d-d71a-4fa0-a02a-63da07ae1dce" name="Default" comment="person">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Cat.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Dog.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Person.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/ooplab8/person.java" afterPath="" />
@@ -18,22 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cat.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab8/Cat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-              <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -615,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517545222327</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Cat">
+      <created>1517545273718</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1517545273718</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -682,7 +673,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TestMethods" />
     <MESSAGE value=" StudentData" />
     <MESSAGE value="OverLoadMethod" />
     <MESSAGE value=" myArrayList" />
@@ -707,7 +697,8 @@
     <MESSAGE value="Employee" />
     <MESSAGE value="Pet" />
     <MESSAGE value="PetApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="PetApp" />
+    <MESSAGE value="Cat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cat" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1046,19 +1037,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab8/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1068,6 +1046,19 @@
             <element signature="e#119#120#0" expanded="true" />
             <element signature="e#164#165#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
           </folding>
         </state>
       </provider>
