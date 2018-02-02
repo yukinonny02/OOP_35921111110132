@@ -5,7 +5,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Cat.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Dog.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Pet.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/PetApp.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/ooplab8/person.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -20,7 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Pet.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/Pet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -39,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PetApp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PetApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab8/PetApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -632,7 +631,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517541028736</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Pet">
+      <created>1517545172078</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1517545172078</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -699,7 +705,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" TestCondittion" />
     <MESSAGE value="CalGrade" />
     <MESSAGE value="TestMethods" />
     <MESSAGE value=" StudentData" />
@@ -724,7 +729,8 @@
     <MESSAGE value="student1" />
     <MESSAGE value="person1" />
     <MESSAGE value="Employee" />
-    <option name="LAST_COMMIT_MESSAGE" value="Employee" />
+    <MESSAGE value="Pet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1038,14 +1044,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab8/PetApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab8/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1086,6 +1084,14 @@
             <element signature="e#458#459#0" expanded="true" />
             <element signature="e#488#489#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/PetApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
