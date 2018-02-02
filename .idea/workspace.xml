@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d8c888d-d71a-4fa0-a02a-63da07ae1dce" name="Default" comment="person">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Circle.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Person.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab8/ShapeApp.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/ooplab8/person.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -17,16 +20,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab8/Dog.java">
+      <file leaf-file-name="Shape.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ooplab8/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShapeApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ooplab8/ShapeApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ooplab8/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
-                <element signature="e#142#143#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ooplab8/Circle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#134#135#0" expanded="true" />
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,6 +140,10 @@
         <option value="$PROJECT_DIR$/src/ooplab8/PetApp.java" />
         <option value="$PROJECT_DIR$/src/ooplab8/Dog.java" />
         <option value="$PROJECT_DIR$/src/ooplab8/Cat.java" />
+        <option value="$PROJECT_DIR$/src/ooplab8/Shape.java" />
+        <option value="$PROJECT_DIR$/src/ooplab8/ShapeApp.java" />
+        <option value="$PROJECT_DIR$/src/ooplab8/Circle.java" />
+        <option value="$PROJECT_DIR$/src/ooplab8/Rectangle.java" />
       </list>
     </option>
   </component>
@@ -606,7 +658,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517545273718</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Dog">
+      <created>1517545318015</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1517545318015</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -673,7 +732,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" StudentData" />
     <MESSAGE value="OverLoadMethod" />
     <MESSAGE value=" myArrayList" />
     <MESSAGE value="myArray2D" />
@@ -698,7 +756,8 @@
     <MESSAGE value="Pet" />
     <MESSAGE value="PetApp" />
     <MESSAGE value="Cat" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cat" />
+    <MESSAGE value="Dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dog" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1060,6 +1119,58 @@
             <element signature="e#219#220#0" expanded="true" />
             <element signature="e#268#269#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/ShapeApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab8/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
