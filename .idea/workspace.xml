@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d8c888d-d71a-4fa0-a02a-63da07ae1dce" name="Default" comment="Person">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Address.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Job.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -16,34 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Address.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab9/Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-              <folding>
-                <element signature="e#580#581#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#653#654#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-                <element signature="e#724#725#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-                <element signature="e#878#879#0" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
-                <element signature="e#957#958#0" expanded="true" />
-                <element signature="e#997#998#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Job.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Job.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab9/Job.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <state relative-caret-position="136">
+              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding>
                 <element signature="e#425#426#0" expanded="true" />
                 <element signature="e#456#457#0" expanded="true" />
@@ -713,7 +689,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518755422712</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Address">
+      <created>1518755487624</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1518755487624</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -780,7 +763,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="myStrToken" />
     <MESSAGE value="myStrBuff" />
     <MESSAGE value="myStrBuffStringCompare" />
     <MESSAGE value="Part3_2" />
@@ -805,7 +787,8 @@
     <MESSAGE value="myCar" />
     <MESSAGE value="Person" />
     <MESSAGE value="personApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="personApp" />
+    <MESSAGE value="Address" />
+    <option name="LAST_COMMIT_MESSAGE" value="Address" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1236,23 +1219,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab9/Job.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding>
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab9/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1303,6 +1269,23 @@
             <element signature="e#909#910#0" expanded="true" />
             <element signature="e#957#958#0" expanded="true" />
             <element signature="e#997#998#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab9/Job.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
           </folding>
         </state>
       </provider>
