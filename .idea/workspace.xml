@@ -4,7 +4,6 @@
     <list default="true" id="4d8c888d-d71a-4fa0-a02a-63da07ae1dce" name="Default" comment="Person">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Address.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/Job.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ooplab9/personApp.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Address.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ooplab9/Address.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+            <state relative-caret-position="170">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding>
                 <element signature="e#580#581#0" expanded="true" />
                 <element signature="e#609#610#0" expanded="true" />
@@ -36,16 +35,6 @@
                 <element signature="e#957#958#0" expanded="true" />
                 <element signature="e#997#998#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="personApp.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ooplab9/personApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -717,7 +706,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518755183804</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="personApp">
+      <created>1518755422712</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1518755422712</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -794,7 +790,6 @@
     <MESSAGE value="Student" />
     <MESSAGE value="person" />
     <MESSAGE value="student" />
-    <MESSAGE value="personApp" />
     <MESSAGE value="student1" />
     <MESSAGE value="person1" />
     <MESSAGE value="Employee" />
@@ -809,7 +804,8 @@
     <MESSAGE value="Car" />
     <MESSAGE value="myCar" />
     <MESSAGE value="Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Person" />
+    <MESSAGE value="personApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="personApp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1282,10 +1278,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ooplab9/personApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ooplab9/Address.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="170">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding>
             <element signature="e#580#581#0" expanded="true" />
             <element signature="e#609#610#0" expanded="true" />
@@ -1300,14 +1304,6 @@
             <element signature="e#957#958#0" expanded="true" />
             <element signature="e#997#998#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ooplab9/personApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
